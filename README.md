@@ -1,2 +1,2 @@
 # Other-Judges
-Other Online Judge Problem Solves
+Other Online Judge and Contest Problem Solves
